@@ -11,7 +11,7 @@ who
 uname vai uname -a (Ar kādu OS)
 echo $0 (Dialekts)
 chmod (maina iespējas)
-git clone https//:github.com/pipriks/181REB350
+git clone https://github.com/pipriks/181REB350
 ./git-upload 2019dienamenesis_laiks_laiks
 
 Read_only_variables = Shell provides a way to mark variables as read-only by using the read-only command. After a variable is marked read-only, its value cannot be changed. ( readonly NAME )
