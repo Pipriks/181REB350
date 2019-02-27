@@ -1,0 +1,4 @@
+#!/bin/sh
+
+NAME="Patriks Purvins"
+echo $NAME

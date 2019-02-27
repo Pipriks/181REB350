@@ -1,0 +1,9 @@
+#!/bin/bash
+
+NAME[0]="Patriks"
+NAME[1]="Purvins"
+NAME[2]="Kuldiga"
+NAME[3]="Riga"
+NAME[4]="Ventspils"
+echo "First Method: ${NAME[*]}"
+echo "Second Method: ${NAME[@]}"

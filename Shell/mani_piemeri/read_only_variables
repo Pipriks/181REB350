@@ -1,0 +1,5 @@
+#!/bin/sh
+
+NAME="Patriks Purvins"
+readonly NAME
+NAME="Purvins Patriks"

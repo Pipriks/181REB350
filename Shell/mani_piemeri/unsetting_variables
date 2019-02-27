@@ -1,0 +1,5 @@
+#!/bin/sh
+
+NAME="Patriks Purvins"
+unset NAME
+echo $NAME
